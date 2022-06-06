@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtlantCorrea
-- 👀 I’m interested in ... Maritime Systems Control
+- 👀 I’m interested in ... Maritime Systems Control & Automate things on my PC.
 - 🌱 I’m currently learning ... Reinforcement Learning
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Same stuff I'm intrested
 - 📫 How to reach me ... aocorrea@uc.cl
 
 <!---
